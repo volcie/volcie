@@ -11,7 +11,8 @@ const abdullah = {
         },
         backEnd: ["NodeJS", "express"],
         databases: ["MySql", "MongoDB"],
-    }
+    },
+    languages: ["Lua", "Python", "HTML", "CSS", "JavaScript", "TypeScript"]
 };
 ```
 
