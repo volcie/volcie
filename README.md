@@ -16,7 +16,7 @@ const abdullah = {
 };
 ```
 
-![Abdullah's github stats](https://github-readme-stats.vercel.app/api?username=Volcie)
+![Abdullah's github stats](https://github-readme-stats.vercel.app/api?username=Volcie&show_icons=true&theme=tokyonight)
 
 <a href="https://github.com/Volcie?tab=followers">
   <img src="https://img.shields.io/github/followers/Volcie">
