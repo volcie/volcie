@@ -3,10 +3,10 @@ Hi there, thanks for stopping by, this is **Abdullah**.
 ```javascript
 const abdullah = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev"],
+    askMeAbout: ["web dev"و "discord bots"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js"],
+            js: ["React.js", "Next.js"],
             css: ["bootstrap"]
         },
         backEnd: ["NodeJS", "express"],
