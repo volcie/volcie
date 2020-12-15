@@ -3,7 +3,7 @@ Hi there, thanks for stopping by, this is **Abdullah**.
 ```javascript
 const abdullah = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev"و "discord bots"],
+    askMeAbout: ["web dev", "discord bots"],
     technologies: {
         frontEnd: {
             js: ["React.js", "Next.js"],
