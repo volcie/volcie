@@ -3,13 +3,13 @@ Hi there, thanks for stopping by, this is **Abdullah**.
 ```javascript
 const abdullah = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "discord bots"],
+    askMeAbout: ["Web Development", "Discord Bots"],
     technologies: {
         frontEnd: {
             js: ["React.js", "Next.js"],
-            css: ["bootstrap"]
+            css: ["Bootstrap", "TailwindCSS"]
         },
-        backEnd: ["NodeJS", "express"],
+        backEnd: ["NodeJS", "Express"],
         databases: ["MySql", "MongoDB"],
     },
     languages: ["Lua", "Python", "HTML", "CSS", "JavaScript", "TypeScript"]
