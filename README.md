@@ -10,7 +10,7 @@ const abdullah = {
             css: ["Bootstrap", "TailwindCSS"]
         },
         backEnd: ["NodeJS", "Express"],
-        databases: ["MySql", "MongoDB"],
+        databases: ["MySQL", "MongoDB"],
     },
     languages: ["Lua", "Python", "HTML", "CSS", "JavaScript", "TypeScript"]
 };
