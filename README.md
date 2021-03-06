@@ -9,7 +9,7 @@ const abdullah = {
             js: ["React.js", "Next.js"],
             css: ["Bootstrap", "TailwindCSS"]
         },
-        backEnd: ["NodeJS", "Express"],
+        backEnd: ["NodeJS", "Express", "NestJS"],
         databases: ["MySQL", "MongoDB"],
     },
     languages: ["Lua", "Python", "HTML", "CSS", "JavaScript", "TypeScript"]
