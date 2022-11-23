@@ -1,10 +1,10 @@
 <h3> Hey 👋, I'm Abdullah!</h3>
 
-<a href="https://github.com/Volcie?tab=followers">
-  <img src="https://img.shields.io/github/followers/Volcie?color=blueviolet">
+<a href="https://github.com/ashahid05?tab=followers">
+  <img src="https://img.shields.io/github/followers/ashahid05?color=blueviolet">
 </a>
-<a href="https://github.com/Volcie">
-   <img src="https://komarev.com/ghpvc/?username=Volcie&color=blueviolet">
+<a href="https://github.com/ashahid05">
+   <img src="https://komarev.com/ghpvc/?username=ashahid05&color=blueviolet">
 </a>
 
 <br />
@@ -39,4 +39,4 @@ A **High School Student** 🚀 in Saudi Arabia.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Volcie&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&icon_color=fad000" alt="Abdullah's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=ashahid05&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&icon_color=fad000" alt="Abdullah's GitHub Stats">
