@@ -16,7 +16,6 @@ A youngster with passion in technology
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently unemployed.
 - 🌱 I’m currently exploring Red Hat Enterprise Linux with a big interest in System Administration. 
 - 🤔 My interests are cloud, linux and developing some useful and cool stuff xD
 
